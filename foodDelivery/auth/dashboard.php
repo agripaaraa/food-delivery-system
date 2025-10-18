@@ -17,4 +17,3 @@ switch ($role) {
     case 'admin': header("Location: ../views/admin/index.php"); break;
 }
 ?>
-
